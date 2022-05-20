@@ -1,1 +1,3 @@
 This is again first line in sample main 1 file.
+
+We are learning stash. sample main 1 file.
